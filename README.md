@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3djZ2E5aWhoNm1wN3Nsbmt4dzNteDdlMmQxdzc0ZGVrem16b2M3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wnVRAoDp1on4qGT1VD/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3djZ2E5aWhoNm1wN3Nsbmt4dzNteDdlMmQxdzc0ZGVrem16b2M3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wnVRAoDp1on4qGT1VD/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with OBS 
